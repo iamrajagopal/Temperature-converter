@@ -46,5 +46,6 @@ Special thanks to Font Awesome for providing the icons used in this project.
 
 Feel free to adapt and expand this README to provide more detailed information about your project, its development process, and any other relevant details. Including screenshots, diagrams, or code snippets can further enhance the understanding of your project.
 
-![image](https://github.com/iamrajagopal/Temperature-converter/assets/111883247/e9a4a828-d72d-4896-adff-556e2566a82b)
+![image](https://github.com/iamrajagopal/Temperature-converter/assets/111883247/c7f620d5-e17e-4af1-8a5d-cb3a2ced3234)
+
 
